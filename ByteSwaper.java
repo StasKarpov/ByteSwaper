@@ -112,7 +112,7 @@ class ByteSwaper extends JPanel  {
     }
 
     public void runGui(){
-        frame=new JFrame("ByteChanger");
+        frame=new JFrame("ByteSwaper");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setBounds(100, 100, 510, 350);
 
