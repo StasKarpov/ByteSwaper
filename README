@@ -1,4 +1,2 @@
 ByteChanger search for all files with given extension in given directory 
 then change all A sequence of data to B in found files.
-
-![Screenshot](Screenshot.png)
